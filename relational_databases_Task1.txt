@@ -1,0 +1,9 @@
+Normalization: The process of structuring a relational database to minimize data redundancy and improve data integrity.
+
+First Normal Form (1NF): Ensures that a table has a unique primary key, stores atomic values, and avoids repeating groups of data.
+
+Second Normal Form (2NF): Extends 1NF and ensures there are no partial dependencies, meaning non-key attributes depend on the entire primary key.
+
+Third Normal Form (3NF): Extends 2NF and ensures there are no transitive dependencies, meaning non-key attributes depend only on the primary key.
+
+Foreign Key: A field in one table that links to the primary key in another table to establish relationships between tables and maintain data consistency in a relational database.
